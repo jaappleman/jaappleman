@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+The koi fish will grow as I contribute to my repos! Hoping for a whale soon!
 <!--
 **jaappleman/jaappleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
